@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 512 512" width="512px" height="512px" xmlns="http://www.w3.org/2000/svg">
+  <g style="" transform="matrix(3.325402, 0, 0, 3.325402, -136.061462, -129.739899)">
+    <path d="M 118 41 H 118 A 75 75 0 0 1 193 116 V 116 A 75 75 0 0 1 118 191 H 118 A 75 75 0 0 1 43 116 V 116 A 75 75 0 0 1 118 41 Z" fill="#2879ff" style=""/>
+    <g style="">
+      <path d="M 64.93 63.029 L 171.18 169.279" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+      <path d="M 170.868 62.717 L 64.618 168.967" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+      <path d="M 149.618 47.717 L 149.618 184.279" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+      <path d="M 86.493 47.717 L 86.461 184.279" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+      <path d="M 186.18 147.404 L 49.618 147.717" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+      <path d="M 186.493 84.467 L 49.618 84.467" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+      <path d="M 118 160.318 C 142.476 160.318 162.318 140.476 162.318 116 C 162.318 91.524 142.476 71.682 118 71.682 C 93.524 71.682 73.682 91.524 73.682 116 C 73.682 140.476 93.524 160.318 118 160.318 Z" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px; fill-opacity: 0.05;"/>
+      <path d="M 42.743 115.998 L 193.055 115.842" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+      <path d="M 117.743 40.842 L 117.743 191.154" style="stroke: rgba(243, 250, 218, 0.1); stroke-width: 0.625px;"/>
+    </g>
+    <path d="m118 184.182c37.656 0 68.182-30.526 68.182-68.182 0-37.6558-30.526-68.1819-68.182-68.1819-37.6556 0-68.1816 30.5261-68.1816 68.1819 0 37.656 30.526 68.182 68.1816 68.182z" fill-opacity=".08" style="fill: rgb(186, 218, 85);"/>
+    <g style="">
+      <path d="M 60.046 78.813 L 87.871 106.635 C 86.983 109.527 86.504 112.599 86.504 115.783 C 86.504 121.272 87.926 126.429 90.422 130.905 Z" fill="#000" fill-opacity=".05" style=""/>
+      <path d="M 144.769 131.909 L 144.778 131.914 L 114.591 184.706 L 124.784 146.679 C 133.314 144.73 140.508 139.274 144.769 131.909 Z" fill="#000" fill-opacity=".05" style=""/>
+      <path d="M 117.853 84.75 C 118.024 84.75 118.196 84.751 118.367 84.754 L 178.822 84.754 L 140.841 94.902 C 145.882 100.43 148.955 107.782 148.955 115.853 C 148.955 133.03 135.03 146.955 117.853 146.955 C 100.675 146.955 86.75 133.03 86.75 115.853 C 86.75 98.675 100.675 84.75 117.853 84.75 Z" fill="#000" fill-opacity=".05" style=""/>
+      <path d="M 118 183.046 C 155.028 183.046 185.045 153.028 185.045 116 C 185.045 78.972 155.028 48.955 118 48.955 C 80.971 48.955 50.954 78.972 50.954 116 C 50.954 153.028 80.971 183.046 118 183.046 Z" stroke="#fff" stroke-width="2.27273" style="fill-opacity: 0.05;"/>
+    </g>
+    <g style="">
+      <path d="M 118 146.682 C 134.945 146.682 148.682 132.945 148.682 116 C 148.682 99.055 134.945 85.318 118 85.318 C 101.055 85.318 87.318 99.055 87.318 116 C 87.318 132.945 101.055 146.682 118 146.682 Z" stroke="#fff" stroke-width="2.27273" style="fill-opacity: 0.05;"/>
+      <path d="M 118 137.591 C 129.924 137.591 139.591 127.924 139.591 116 C 139.591 104.076 129.924 94.409 118 94.409 C 106.076 94.409 96.409 104.076 96.409 116 C 96.409 127.924 106.076 137.591 118 137.591 Z" stroke="#fff" stroke-width="2.27273" style="fill-opacity: 0.05;"/>
+      <path d="M 178.227 84.182 L 118 84.182 L 118 86.455 L 178.227 86.455 Z" fill="#fff" style=""/>
+      <path clip-rule="evenodd" d="M 145.556 131.909 L 115.442 184.068 L 113.474 182.931 L 143.587 130.773 Z" fill="#fff" fill-rule="evenodd" style=""/>
+      <path clip-rule="evenodd" d="M 90.444 131.909 L 60.331 79.751 L 62.299 78.614 L 92.413 130.773 Z" fill="#fff" fill-rule="evenodd" style=""/>
+    </g>
+  </g>
+  <g transform="matrix(0.916473, 0, 0, 0.916473, 24.436644, 21.529724)" style="opacity: 0.67;">
+    <g style="" transform="matrix(1.410555, 0, 0, 1.410555, 44.147961, -37.337471)">
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="66.209" cy="166.87" r="4.932"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="80.098" cy="180.051" r="5.332"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="72.324" cy="190.763" r="2.104"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="85.172" cy="222.443" r="6.157"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="67.836" cy="238.633" r="3.656"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="56.748" cy="215.292" r="6.004"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="63.027" cy="274.996" r="2.72"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="98.729" cy="200.001" r="1.888"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="100.261" cy="235.525" r="3.656"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="57.161" cy="244.14" r="4.932"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="71.05" cy="257.321" r="3.656"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="49.652" cy="184.9" r="3.656"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="76.124" cy="299.713" r="2.379"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="58.788" cy="315.903" r="1.352"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="47.7" cy="292.562" r="5.123"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="91.213" cy="312.795" r="1.443"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="91.994" cy="162.513" r="4.932"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="105.883" cy="175.694" r="3.656"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="98.109" cy="186.406" r="2.28"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="110.957" cy="218.086" r="4.565"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="82.533" cy="210.935" r="2.271"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="88.812" cy="270.639" r="3.656"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="121.501" cy="253.824" r="2.572"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="124.514" cy="195.644" r="3.656"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="126.046" cy="231.168" r="4.257"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="82.946" cy="239.783" r="4.932"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="96.835" cy="252.964" r="2.51"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="115.494" cy="272.885" r="5.477"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="78.046" cy="272.665" r="2.104"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="104.451" cy="281.903" r="1.888"/>
+      <circle style="stroke-width: 2.12682px; fill: rgb(221, 221, 221);" cx="88.255" cy="292.837" r="2.271"/>
+    </g>
+    <g transform="matrix(0.803872, 0, 0, 1.410555, 106.989243, -86.168846)" style="">
+      <path d="M 210.036 246.839 C 210.036 246.839 235.797 230.61 259.997 231.101 C 289.244 231.695 287.994 244.728 317.197 246.447 C 345.278 248.1 363.157 228.158 363.157 228.158" style="fill: none; stroke-width: 2.7095px; stroke: rgb(255, 255, 255);"/>
+      <path d="M 211.094 272.09 C 211.094 272.09 236.855 255.861 261.055 256.352 C 290.302 256.946 289.052 269.979 318.255 271.698 C 346.336 273.351 364.215 253.409 364.215 253.409" style="fill: none; stroke-width: 2.7095px; stroke: rgb(255, 255, 255);"/>
+      <path d="M 212.785 298.157 C 212.785 298.157 238.546 281.928 262.746 282.419 C 291.993 283.013 290.743 296.046 319.946 297.765 C 348.027 299.418 365.906 279.476 365.906 279.476" style="fill: none; stroke-width: 2.7095px; stroke: rgb(255, 255, 255);"/>
+    </g>
+    <g transform="matrix(0.814605, 0, 0, 1.013111, 245.211441, 81.768539)" style="">
+      <polygon class="cls-1" points="-40.868 23.705 19.368 -67.408 19.368 414.83 -40.868 338.635 -40.868 23.705" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="328.474" x2="19.368" y2="399.272" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="318.314" x2="19.368" y2="383.713" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="308.153" x2="19.368" y2="368.16" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="297.998" x2="19.368" y2="352.602" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="287.838" x2="19.368" y2="337.049" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="277.677" x2="19.368" y2="321.491" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="267.517" x2="19.368" y2="305.938" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="257.362" x2="19.368" y2="290.38" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="247.201" x2="19.368" y2="274.821" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="237.041" x2="19.368" y2="259.268" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="226.88" x2="19.368" y2="243.71" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="216.726" x2="19.368" y2="228.157" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="206.565" x2="19.368" y2="212.599" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="196.404" x2="19.368" y2="197.046" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="186.244" x2="19.368" y2="181.487" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="176.089" x2="19.368" y2="165.929" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="165.929" x2="19.368" y2="150.376" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="155.768" x2="19.368" y2="134.818" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="145.614" x2="19.368" y2="119.265" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="135.453" x2="19.368" y2="103.706" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="125.292" x2="19.368" y2="88.154" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="115.132" x2="19.368" y2="72.595" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="104.977" x2="19.368" y2="57.037" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="94.817" x2="19.368" y2="41.484" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="84.656" x2="19.368" y2="25.925" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="74.495" x2="19.368" y2="10.373" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="64.341" x2="19.368" y2="-5.186" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="54.18" x2="19.368" y2="-20.738" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="44.02" x2="19.368" y2="-36.297" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-40.868" y1="33.859" x2="19.368" y2="-51.855" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="13.791" y1="-58.969" x2="13.791" y2="407.773" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="8.559" y1="-51.053" x2="8.559" y2="401.153" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="3.643" y1="-43.62" x2="3.643" y2="394.935" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-0.984" y1="-36.618" x2="-0.984" y2="389.08" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-5.352" y1="-30.017" x2="-5.352" y2="383.559" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-9.473" y1="-23.78" x2="-9.473" y2="378.346" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-13.372" y1="-17.882" x2="-13.372" y2="373.41" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-17.074" y1="-12.293" x2="-17.074" y2="368.734" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-20.578" y1="-6.987" x2="-20.578" y2="364.299" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-23.909" y1="-1.947" x2="-23.909" y2="360.085" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-27.08" y1="2.847" x2="-27.08" y2="356.075" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-30.097" y1="7.412" x2="-30.097" y2="352.256" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-32.978" y1="11.767" x2="-32.978" y2="348.61" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-35.729" y1="15.925" x2="-35.729" y2="345.137" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+      <line class="cls-1" x1="-38.357" y1="19.898" x2="-38.357" y2="341.812" style="fill: none; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(255, 255, 255);"/>
+    </g>
+  </g>
+  <g transform="matrix(4.777778, 0, 0, 4.777778, 5.550387, 137.737869)" style="">
+    <rect width="36" height="36" x="6" y="6" style="fill: rgb(34, 25, 210); opacity: 0.62;" rx="7.443" ry="7.443"/>
+    <polygon points="27.49 22 14.227 22 14.227 25.264 18.984 25.264 18.984 40 22.753 40 22.753 25.264 27.49 25.264" style=""/>
+    <path d="M 39.194 26.084 C 39.194 26.084 37.407 24.892 35.387 24.892 C 33.367 24.892 32.64 25.852 32.64 26.878 C 32.64 29.526 40.021 29.261 40.021 34.59 C 40.021 42.799 28.767 39.158 28.767 39.158 L 28.767 35.22 C 28.767 35.22 30.919 36.842 33.5 36.842 C 36.081 36.842 35.983 35.154 35.983 34.922 C 35.983 32.473 28.668 32.473 28.668 27.044 C 28.668 19.663 39.326 22.575 39.326 22.575 L 39.194 26.084 Z" style=""/>
+  </g>
+  <g transform="matrix(0.932325, 0, 0, 0.932325, -202.923553, 186.48497)" style="">
+    <rect width="184.485" height="184.485" fill="#f7df1e" style="opacity: 0.48;" x="535.84" y="-21.538" rx="33.309" ry="33.309"/>
+    <path d="M 655.789 119.94 C 659.749 126.406 664.901 131.159 674.014 131.159 C 681.669 131.159 686.559 127.333 686.559 122.046 C 686.559 115.711 681.535 113.468 673.109 109.782 L 668.49 107.8 C 655.158 102.121 646.302 95.006 646.302 79.964 C 646.302 66.108 656.859 55.56 673.358 55.56 C 685.105 55.56 693.549 59.648 699.635 70.352 L 685.248 79.589 C 682.081 73.91 678.664 71.672 673.358 71.672 C 667.947 71.672 664.517 75.105 664.517 79.589 C 664.517 85.132 667.95 87.376 675.877 90.808 L 680.495 92.787 C 696.192 99.518 705.055 106.381 705.055 121.809 C 705.055 138.443 691.989 147.555 674.441 147.555 C 657.284 147.555 646.199 139.379 640.775 128.662 Z M 590.526 121.541 C 593.428 126.69 596.068 131.043 602.416 131.043 C 608.485 131.043 612.315 128.669 612.315 119.434 L 612.315 56.615 L 630.789 56.615 L 630.789 119.684 C 630.789 138.814 619.573 147.521 603.202 147.521 C 588.41 147.521 579.844 139.866 575.487 130.646 Z" style=""/>
+  </g>
+</svg>
