@@ -1,9 +1,9 @@
 {
-  "name": "strip-ts-copy",
-  "displayName": "Strip TS Copy",
-  "description": "Strip types from TypeScript code while copying it.",
+  "name": "vscode-ts-devtools-copy",
+  "displayName": "Strip TS DevTools Copy",
+  "description": "Strip types from TypeScript code for pasting into Chrome DevTools console.",
   "icon": "images/icon.png",
-  "version": "0.8.0",
+  "version": "1.0.0-rc.1",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -15,20 +15,20 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/anuraghazra/vscode-strip-ts-copy.git"
+    "url": "git://github.com/chorpler/vscode-strip-ts-copy.git"
   },
-  "publisher": "anuraghazra",
+  "publisher": "starmobiledevelopers",
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "strip-ts-copy.copyAsJs",
+        "command": "vscode-ts-devtools-copy.copyAsJs",
         "title": "Copy TS as JS"
       }
     ],
     "keybindings": [
       {
-        "command": "strip-ts-copy.copyAsJs",
+        "command": "vscode-ts-devtools-copy.copyAsJs",
         "key": "ctrl+alt+c",
         "mac": "shift+alt+cmd+c"
       }
@@ -36,7 +36,7 @@
     "menus": {
       "editor/context/copy": [
         {
-          "command": "strip-ts-copy.copyAsJs",
+          "command": "vscode-ts-devtools-copy.copyAsJs",
           "when": "editorHasSelection && editorLangId == typescript"
         }
       ]
